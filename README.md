@@ -27,7 +27,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "AxZeRxD"
+        self.name = "Arsh"
         self.role = "Full Stack Developer"
         self.language_spoken = ["hi_IN", "en_US"]
         self.current_work = "Python Development Projects"
@@ -49,13 +49,13 @@ me.say_hi()
 
 ## 🌐 Connect & Collaborate
 <p align="center">
-<a href="https://www.youtube.com/@nukersop" target="_blank">
+<a href="https://www.youtube.com/@ArshRecords1" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&edge_flat=false" alt="YouTube"/>
 </a>
-<a href="https://discord.gg/programmers" target="_blank">
+<a href="https://discord.gg/byrFJ542N7" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&edge_flat=false" alt="Discord"/>
 </a>
-<a href="https://github.com/AxZeRxD" target="_blank">
+<a href="https://github.com/arshh1337" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&edge_flat=false" alt="GitHub"/>
 </a>
 </p>
@@ -109,32 +109,3 @@ me.say_hi()
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 </details>
-
-## 📊 Performance Metrics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AxZeRxD&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxZeRxD&layout=compact&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AxZeRxD&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Streak Stats"/>
-</div>
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AxZeRxD&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-## 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AxZeRxD&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  <h4>🚀 "Code is poetry written in logic" 🚀</h4>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</div>
-
-<h3 align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
-</h3>
